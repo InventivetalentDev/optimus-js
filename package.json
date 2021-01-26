@@ -1,9 +1,9 @@
 {
   "name": "@inventivetalent/optimus-ts",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "description": "Knuths multiplicative hashing based id obfuscation for javascript (port of https://github.com/jenssegers/optimus).",
-  "main": "optimus.ts",
-  "types": "optimus.d.ts",
+  "main": "dist/optimus.js",
+  "types": "dist/optimus.d.ts",
   "scripts": {
     "clean": "rm -rf dist",
     "compile": "tsc",
